@@ -26,15 +26,26 @@ Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
 
 ```bash
 pip install -r requirements.txt
-Kullanım
-Uygulamayı başlatın.
-Numara dosyanızı seçin (her numara ayrı bir satırda olmalıdır).
-Mesaj dosyanızı seçin.
-Durum dosyanızı seçin (eğer yoksa, uygulama otomatik olarak oluşturacaktır).
-Göndermek istediğiniz resmi seçin.
-"Mesajları Gönder" butonuna tıklayın.
-İndirme
-Uygulamanın en son sürümünü buradan indirebilirsiniz.
+## Kullanım
+
+1. Uygulamayı başlatın.
+2. Numara dosyanızı seçin (her numara ayrı bir satırda olmalıdır).
+3. Mesaj dosyanızı seçin.
+4. Durum dosyanızı seçin (eğer yoksa, uygulama otomatik olarak oluşturacaktır).
+5. Göndermek istediğiniz resmi seçin.
+6. "Mesajları Gönder" butonuna tıklayın.
+
+## İndirme
+
+Uygulamanın en son sürümünü [buradan indirebilirsiniz](https://drive.google.com/file/d/1_ViQa-uTMKi9IiVZ_WEZpmB7nvotP5Z-/view?usp=sharing).
+
+## Hata Ayıklama
+
+Eğer uygulama çalışmazsa, aşağıdaki adımları kontrol edin:
+
+- Gerekli kütüphanelerin yüklü olduğundan emin olun.
+- Dosya yollarının doğru olduğundan emin olun.
+- WhatsApp Web'in açık olduğundan emin olun.
 
 Hata Ayıklama
 Eğer uygulama çalışmazsa, aşağıdaki adımları kontrol edin:
